@@ -16,8 +16,5 @@ Modelo E-commecer Refinado:
 <img width="600" height="700" alt="Modelo ER_E-commerce_Refinado" src="https://github.com/user-attachments/assets/3de53d7a-8fff-4dfd-8be1-7d99a5bcacc8" />
 
 
-
-
-
-***
+---
 
