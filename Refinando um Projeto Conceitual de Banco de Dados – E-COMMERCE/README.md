@@ -4,7 +4,7 @@
 
 Este projeto apresenta o modelo de banco de dados de um sistema de e-commerce, incluindo clientes PF/PJ, produtos, pedidos, pagamentos e entregas.
 
----
+##
 
 ## **1. Descrição Geral**
 
@@ -17,7 +17,7 @@ O banco de dados foi criado para atender funcionalidades essenciais de um sistem
 * Entrega com status e código de rastreio
 * Múltiplas formas de pagamento por cliente
 
----
+##
 
 ## **2. Objetivo**
 
@@ -25,4 +25,5 @@ O banco de dados foi criado para atender funcionalidades essenciais de um sistem
 2. Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 3. Entrega – Possui status e código de rastreio;
 
----
+##
+
