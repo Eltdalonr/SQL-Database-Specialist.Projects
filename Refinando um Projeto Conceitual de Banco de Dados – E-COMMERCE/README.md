@@ -23,9 +23,6 @@ O banco de dados foi criado para atender funcionalidades essenciais de um sistem
 
 Foi realizado as seguintes modificações:
 
-##
-
-## Estrutura de Dados
 
 ### 1. Cliente (PJ ou PF)
 
@@ -45,6 +42,7 @@ Foi realizado as seguintes modificações:
 
 
 ##
+
 
 
 
