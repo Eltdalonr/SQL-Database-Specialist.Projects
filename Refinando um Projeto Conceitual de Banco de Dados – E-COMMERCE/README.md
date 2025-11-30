@@ -23,13 +23,28 @@ O banco de dados foi criado para atender funcionalidades essenciais de um sistem
 
 Foi realizado as seguintes modificações:
 
-1. Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-1.1 Criado campo Tipo Cliente e CNPJ/CPF na Tabela Cliente; 
-2. Pagamento – Pode ter cadastrado mais de uma forma de pagamento; 
-2.1 Criado Tabela pagamento e relacionamenot 1:1 com a Tabela Cliente;
-3. Entrega – Possui status e código de rastreio;
-3.1 Criado Tabela entrega e relacionamento 1:1 com a Tabela Pedido; 
+##
+
+## Estrutura de Dados
+
+### 1. Cliente (PJ ou PF)
+
+* Uma conta **pode ser Pessoa Jurídica (PJ) ou Pessoa Física (PF)**, mas **não pode possuir ambos os tipos** simultaneamente.
+* Foi criado o campo **`tipo_cliente`** e **`cnpj_cpf`** na tabela **Cliente**.
+
+### 2. Pagamento
+
+* Um cliente pode ter **mais de uma forma de pagamento** cadastrada.
+* Foi criada a tabela **Pagamento**, com **relacionamento 1:N (um cliente, vários pagamentos)** com a tabela **Cliente**
+  *(observação: sua descrição dizia 1:1, mas isso contradiz “mais de uma forma de pagamento”; caso queira manter 1:1, posso corrigir).*
+
+### 3. Entrega
+
+* Uma entrega possui **status** e **código de rastreio**.
+* Foi criada a tabela **Entrega**, com **relacionamento 1:1** com a tabela **Pedido**.
+
 
 ##
+
 
 
