@@ -43,6 +43,8 @@ Foi realizado as seguintes modificações:
 
 ##
 
+<img width="865" height="1034" alt="Modelo ER_E-commerce_Refinado" src="https://github.com/user-attachments/assets/c3e46018-b9d6-4318-8106-2d187922228b" />
+
 
 
 
