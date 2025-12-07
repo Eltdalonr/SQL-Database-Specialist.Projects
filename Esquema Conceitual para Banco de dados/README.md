@@ -91,6 +91,8 @@ Foram realizadas as seguintes definições e modelagens com base na narrativa da
 * Representa o relacionamento **N:N entre OS e Peças**, permitindo que múltiplas peças sejam aplicadas em múltiplas OS, com rastreio de custo.
 
 ##
+<img width="906" height="1030" alt="Oficina mecanica" src="https://github.com/user-attachments/assets/0100209b-edfb-43f7-bb31-b47ed79993ff" />
+
 
 
 
