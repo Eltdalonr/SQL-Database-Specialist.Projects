@@ -9,11 +9,11 @@ Na formação pela Dio Innovation, desenvolvi habilidades em bancos de dados, mo
 ---
 
 - **Projeto1:** Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE 
-**Descrição:** Neste projeto refinou-se o projeto conceitual.  
+- **Descrição:** Neste projeto refinou-se o projeto conceitual.  
 
 
 Modelo E-commecer Refinado:  
-<img width="600" height="700" alt="Modelo ER_E-commerce_Refinado" src="https://github.com/user-attachments/assets/3de53d7a-8fff-4dfd-8be1-7d99a5bcacc8" />
+[<img width="600" height="700" alt="Modelo ER_E-commerce_Refinado" src="https://github.com/user-attachments/assets/3de53d7a-8fff-4dfd-8be1-7d99a5bcacc8" />](https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE)
 
 
 ##
