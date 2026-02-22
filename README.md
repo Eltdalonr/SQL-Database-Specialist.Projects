@@ -29,6 +29,12 @@ Modelo Sistema de controle e gerenciamento de execução de ordens de serviço C
 - **Descrição:** O banco de dados foi criado para sedimentar os conhecimentos de modelagem conceitual, lógica e física de banco de dados, além da criação de Queries.
 - **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Projeto%20L%C3%B3gico%20Banco%20de%20Dados%20-%20E-comerce
 
+---
+
+- **Projeto4:** Este projeto apresenta a criação do modelo lógico, a inserção de dados e a confecção de queries para responder perguntas estabelecidas, do modelo conceitual - OFICINA - PARTE 2
+- **Descrição:** O banco de dados foi criado para sedimentar os conhecimentos de modelagem conceitual, lógica e física de banco de dados, além da criação de Queries.
+- **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Projeto%20L%C3%B3gico%20Banco%20de%20Dados%20-%20Oficina
+
   
 ##
 
