@@ -37,7 +37,7 @@ Modelo Sistema de controle e gerenciamento de execução de ordens de serviço C
 
 - **Projeto5:** Criação de índices em Banco de Dados e  Utilização de procedures para manipulação de dados em Banco de Dados
 - **Descrição:**  consolidar os conhecimentos de Index e Procedure.
-- **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Projeto%20L%C3%B3gico%20Banco%20de%20Dados%20-%20Oficina
+- **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Personalizando%20o%20Banco%20de%20Dados%20com%20%C3%8Dndices%20e%20Procedures
 
   
 ##
