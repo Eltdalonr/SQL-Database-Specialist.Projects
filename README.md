@@ -35,6 +35,10 @@ Modelo Sistema de controle e gerenciamento de execução de ordens de serviço C
 - **Descrição:** O banco de dados foi criado para sedimentar os conhecimentos de modelagem conceitual, lógica e física de banco de dados, além da criação de Queries.
 - **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Projeto%20L%C3%B3gico%20Banco%20de%20Dados%20-%20Oficina
 
+- **Projeto5:** Criação de índices em Banco de Dados e  Utilização de procedures para manipulação de dados em Banco de Dados
+- **Descrição:**  consolidar os conhecimentos de Index e Procedure.
+- **Scripts:** https://github.com/Eltdalonr/SQL-Database-Specialist.Projects/tree/main/Projeto%20L%C3%B3gico%20Banco%20de%20Dados%20-%20Oficina
+
   
 ##
 
